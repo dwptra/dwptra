@@ -1,7 +1,7 @@
 YOW SUP! WELCOME TO MY GITHUB
 
-FOLLOW ME
+FOLLOW ME <br>
 Instagram: https://instagram.com/dwiputra.09
 
-ABOUT ME:
+ABOUT ME <br>
 Portfolio: https://dwi-putra.netlify.app
