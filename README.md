@@ -1,4 +1,4 @@
-<h1>YOW SUP! WELCOME TO MY GITHUB</h1>
+<h2>YOW SUP! WELCOME TO MY GITHUB</h2>
 
 <h3>FOLLOW ME</h3>
 <p>Instagram: https://instagram.com/dwiputra.09</p>
