@@ -4,4 +4,4 @@
 <p>Instagram: https://instagram.com/dwiputra.09</p>
 
 <h3>ABOUT ME </h3>
-<p>Portfolio: https://instagram.com/dwiputra.09</p>
+<p>Portfolio: https://dwptra.netlify.app</p>
